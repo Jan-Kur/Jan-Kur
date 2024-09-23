@@ -1,7 +1,5 @@
-- ⚡ Driven to be the best version of myself
-- 📚 Constantly learning
-- 🧠 Passionate about AI
-- ❌ Never enough
+16yo creator of first of it's kind AI Development Environment.
+Join our discord to contribute to this project: https://discord.gg/NJZfn6d6
 
 <!---
 Jan-Kur/Jan-Kur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
